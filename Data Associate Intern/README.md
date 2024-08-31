@@ -1,6 +1,7 @@
 ## Internship Experience at Smarter Philippines through Data Analytics, R&D, Training, and Adoption (SPARTA)
 
 Role: Data Associate Intern
+
 Location: Remote
 
 During my internship at SPARTA, I was immersed in various aspects of data analytics and management, gaining hands-on experience in the field of data association. My key responsibilities and achievements include:
